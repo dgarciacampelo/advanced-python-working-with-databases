@@ -168,3 +168,5 @@ exercise-files/
 videos/
 # SQLite database files
 *.db
+# Container folders
+mysql-data/
